@@ -1,0 +1,1 @@
+document.body.style.border = "Spx solid red";
